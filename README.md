@@ -1,5 +1,7 @@
 # dayplanner
 
+https://sanawck.github.io/dayplanner/.
+
 this homework was to create a dayplanner. i worked with my TA and additional tutoring sessions to complete this. This project is intended to help create a organized list of daily tasks. It updates the time and indicates past, present and future time blocks. It saves tasks to local storage. I used the starter code provided which had bootstrap and jquery librarys. I plan to update the style element of this in the future to make it look more appealing.
 
 The below are the requirements to be met
