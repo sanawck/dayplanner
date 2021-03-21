@@ -22,4 +22,9 @@ $(document).ready(function () {
     let now = new Date().getHours();
 
 
+// Determine if each row is past, present, or future 
+
+//store  data to local storage
+
 });
+
